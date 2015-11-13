@@ -33,23 +33,7 @@ li {
 .btnItem {
   margin-left:-5px;
   cursor:pointer;
-  -moz-box-shadow:inset 0px 0px 0px 0px #e6cafc;
-	-webkit-box-shadow:inset 0px 0px 0px 0px #e6cafc;
-	box-shadow:inset 0px 0px 0px 0px #e6cafc;
 	background-color:#c579ff;
-	-webkit-border-top-left-radius:0px;
-	-moz-border-radius-topleft:0px;
-	border-top-left-radius:0px;
-	-webkit-border-top-right-radius:0px;
-	-moz-border-radius-topright:0px;
-	border-top-right-radius:0px;
-	-webkit-border-bottom-right-radius:0px;
-	-moz-border-radius-bottomright:0px;
-	border-bottom-right-radius:0px;
-	-webkit-border-bottom-left-radius:0px;
-	-moz-border-radius-bottomleft:0px;
-	border-bottom-left-radius:0px;
-	text-indent:0px;
 	border:1px solid #a946f5;
 	display:inline-block;
 	color:#ffffff;
@@ -62,7 +46,6 @@ li {
 	width:116px;
 	text-decoration:none;
 	text-align:center;
-	text-shadow:0px 0px 0px #8628ce;
 }.btnItem:hover {
 	background-color:#a341ee;
 }.btnItem:active {
